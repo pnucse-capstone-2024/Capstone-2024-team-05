@@ -1,0 +1,102 @@
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/bottom_sheet_layout"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:background="@color/bottom_sheet_background"
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:padding="16sp"
+    app:behavior_hideable="true"
+    app:behavior_peekHeight="50sp"
+    app:layout_behavior="com.google.android.material.bottomsheet.BottomSheetBehavior">
+
+    <androidx.appcompat.widget.LinearLayoutCompat
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16sp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/navigation_message"
+                android:hint="내비게이션 안내 메세지"
+                android:textColor="@color/bottom_sheet_text_color"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/accuracy"
+                android:hint="90%"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="end"
+                android:layout_centerVertical="true"
+                android:textColor="@color/bottom_sheet_text_color"
+                android:textSize="20sp" />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+        <androidx.appcompat.widget.LinearLayoutCompat
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16sp"
+            android:weightSum="4"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/longitude"
+                android:text="경도 :"
+                android:textColor="@color/bottom_sheet_text_color"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:layout_centerVertical="true"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/longitude_value"
+                android:hint="경도 값"
+                android:textColor="@color/bottom_sheet_text_color"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:layout_centerVertical="true"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/latitude"
+                android:text="위도 :"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:layout_centerVertical="true"
+                android:textColor="@color/bottom_sheet_text_color"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/latitude_value"
+                android:hint="위도 값"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_weight="1"
+                android:layout_centerVertical="true"
+                android:textColor="@color/bottom_sheet_text_color"
+                android:textSize="20sp" />
+
+        </androidx.appcompat.widget.LinearLayoutCompat>
+
+    </androidx.appcompat.widget.LinearLayoutCompat>
+
+</androidx.core.widget.NestedScrollView>
