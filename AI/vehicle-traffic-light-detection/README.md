@@ -36,5 +36,5 @@ pip install -r requirements.txt
 ## 실행
 
 ```
-python guess.py
+python main.py
 ```
