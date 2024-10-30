@@ -1,0 +1,3 @@
+/Users/kimjusong/Documents/SafeDrive/OpenCV/.cxx/Debug/5r2w1n18/x86/CMakeFiles/opencv_jni_shared.dir
+/Users/kimjusong/Documents/SafeDrive/OpenCV/.cxx/Debug/5r2w1n18/x86/CMakeFiles/edit_cache.dir
+/Users/kimjusong/Documents/SafeDrive/OpenCV/.cxx/Debug/5r2w1n18/x86/CMakeFiles/rebuild_cache.dir

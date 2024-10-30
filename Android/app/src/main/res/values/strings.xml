@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SafeDrive</string>
+    <string name="title_home">홈</string>
+    <string name="title_dashboard">대시보드</string>
+    <string name="title_camera">카메라</string>
+    <string name="title_map">경로안내</string>
+
+    <string name="banner_desc">드라이브 관리자 배너</string>
+    <string name="search_hint">검색</string>
+    <string name="first_button">운전 도우미</string>
+    <string name="second_button">경로 안내</string>
+    <string name="third_button">나의 기록</string>
+</resources>
