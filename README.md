@@ -46,12 +46,13 @@
 
 ### 3. 설치 및 사용 방법
 
-#### 제품 설치를 위한 준비
+#### 3.1. 제품 설치를 위한 준비
 
-1. **필수 소프트웨어**: Android Studio 및 Java SDK 1.8 이상이 필요합니다.
-2. **API 키 발급**: T map API를 사용하기 위해 T map 개발자 사이트에서 API 키를 발급받아야 합니다.
+**3.1.1. 필수 소프트웨어**: Android Studio 및 Java SDK 1.8 이상이 필요합니다.
 
-#### 설치 방법
+**3.1.2. API 키 발급**: T map API를 사용하기 위해 T map 개발자 사이트에서 API 키를 발급받아야 합니다.
+
+#### 3.2. 설치 방법
 
 1. **API 키 설정**: 발급받은 T map API 키를 `local.properties` 파일에 추가합니다.
    ```properties
