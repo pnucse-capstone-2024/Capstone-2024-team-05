@@ -53,7 +53,7 @@
 
 #### 3.2. 설치 방법
 
-1. **API 키 설정**: 발급받은 T map API 키를 `local.properties` 파일에 추가합니다.
+- **API 키 설정**: 발급받은 T map API 키를 `local.properties` 파일에 추가합니다.
    ```properties
    API_KEY=발급받은_API_KEY
    ```
