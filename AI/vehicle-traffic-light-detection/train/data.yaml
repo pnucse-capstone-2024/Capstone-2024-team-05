@@ -1,0 +1,5 @@
+train: C:/Users/computer1/Desktop/codevision2/data/processed/train/images
+val: C:/Users/computer1/Desktop/codevision2/data/processed/val/images
+
+nc: 10  # 클래스 수
+names: ['일반차량', '보행자', '목적차량(특장차)', '이륜차', '빨간불', '초록불', 'x_light', '다른_방향불', '노란불', '좌회전_불']
