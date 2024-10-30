@@ -64,42 +64,11 @@
 
 ### 5. 팀 소개
 
-#### 김대길
+| **김대길** | **김주송** | **이지수** |
+|:-:|:-:|:-:|
+| <img src="https://github.com/mong3125.png" width="100" height="100" style="border-radius: 50%;"> | <img src="https://github.com/jooiss.png" width="100" height="100" style="border-radius: 50%;"> | <img src="https://github.com/dlwltn0430.png" width="100" height="100" style="border-radius: 50%;"> |
+| **AI** | **Android** | **AI** |
+| - 주변 차량, 보행자, 신호 인식을 위한 논문 탐색 및 관련 코드 분석<br> - 주변 차량, 보행자, 신호 인식을 위한 데이터셋 전처리 및 가공<br> - YOLOv8 모델의 성능과 구조에 대한 분석 및 연구<br> - YOLOv8 기반의 주변 차량, 보행자, 신호 인식 모델 설계 및 구현<br> - 탐지 결과를 화면에 표시하는 후처리 코드 구현 | - 애플리케이션 개발<br> - 피그마를 활용한 애플리케이션 UI 설계 및 구현<br> - 초보 운전자 연수 기능 설계<br> - 피드백 대시보드 기능 설계<br> - 긴급상황 대응 기능 설계 | - 차선 인식을 위한 논문 탐색 및 관련 코드 분석<br> - 차선 인식을 위한 데이터셋 전처리 및 가공<br> - OpenCV 기반의 차선 인식 모델 설계 및 구현<br> - 탐지 결과를 화면에 표시하는 후처리 코드 구현<br> - 피그마를 활용한 애플리케이션 UI 설계 및 구현 |
+| [Github](https://github.com/mong3125) | [Github](https://github.com/jooiss) | [Github](https://github.com/dlwltn0430) |
+| mong3125@pusan.ac.kr | jusong513@pusan.ac.kr | dlwltn0430@pusan.ac.kr |
 
--  **Email**: mong3125@pusan.ac.kr
--  **GitHub**: [github.com/mong3125](https://github.com/mong3125)
-
-**역할**:
-
--  주변 차량, 보행자, 신호 인식을 위한 논문 탐색 및 관련 코드 분석
--  주변 차량, 보행자, 신호 인식을 위한 데이터셋 전처리 및 가공
--  YOLOv8 모델의 성능과 구조에 대한 분석 및 연구
--  YOLOv8 기반의 주변 차량, 보행자, 신호 인식 모델 설계 및 구현
--  탐지 결과를 화면에 표시하는 후처리 코드 구현
-
-#### 김주송
-
--  **Email**: jusong513@pusan.ac.kr
--  **GitHub**: [github.com/jooiss](https://github.com/jooiss)
-
-**역할**:
-
--  애플리케이션 개발
--  피그마를 활용한 애플리케이션 UI 설계 및 구현
--  초보 운전자 연수 기능 설계
--  피드백 대시보드 기능 설계
--  긴급상황 대응 기능 설계
-
-#### 이지수
-
--  **Email**: dlwltn0430@naver.com
--  **GitHub**: [github.com/dlwltn0430](https://github.com/dlwltn0430)
-
-**역할**:
-
--  차선 인식을 위한 논문 탐색 및 관련 코드 분석
--  차선 인식을 위한 데이터셋 전처리 및 가공
--  YOLOv8 모델의 성능과 구조에 대한 분석 및 연구
--  YOLOv8 기반의 차선 인식 모델 설계 및 구현
--  탐지 결과를 화면에 표시하는 후처리 코드 구현
--  피그마를 활용한 애플리케이션 UI 설계 및 구현
