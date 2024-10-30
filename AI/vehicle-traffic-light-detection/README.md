@@ -1,10 +1,10 @@
-# 차선 인식 모델
+# 차량 및 신호등 인식 모델
 
 ## 프로젝트 디렉토리로 이동
 
 ```
 cd AI
-cd lane-detection
+cd vehicle-traffic-light-detection
 ```
 
 ## 가상환경 생성
